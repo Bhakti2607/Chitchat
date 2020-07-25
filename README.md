@@ -1,0 +1,2 @@
+# Chitchat
+Chitchat is an android application that is quite similar to the Facebook. In which we can have users signup and login activities. And After login user will get an option to set their profile picture and other details. Then user can find friends who are using chitchat app. Then they can add them in their friend list by sending request and after the other one's accept the request.User can also decline or accept request and unfriend the other one.After beigs friends users can have a conversation.
